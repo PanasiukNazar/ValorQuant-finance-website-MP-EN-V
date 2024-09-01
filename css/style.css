@@ -993,6 +993,9 @@ ul.dropdown-menu li {
     margin-bottom: 20px;
 }
 .testimonial-block .client-info .client-img img {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
     border-radius: 100%;
 }
 .testimonial-block .client-info .info h6 {
